@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/runner/work/2025-2.SeLiga/2025-2.SeLiga",
+	"sourceRoot": "/home/runner/work/2025-2-SeLiga/2025-2-SeLiga",
 	"sources": [
 		"themes/hugolify/assets/sass/main.sass",
 		"themes/hugolify/assets/sass/main-theme.sass",
